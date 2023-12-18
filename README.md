@@ -1,6 +1,6 @@
 
 
-<p align="center">Estou animado para enfrentar grandes desafios usando tecnologias de DevOps/QA. <br><br> Minha experiência abrange o uso de ferramentas como Docker e Kubernetes para automação de infraestrutura, juntamente com o desenvolvimento de testes utilizando Selenium e JUnit. Estou entusiasmado em explorar novas ferramentas e métodos para aprimorar a qualidade e eficiência dos processos de entrega e teste de software. Como profissional júnior, estou comprometido em aprender e crescer na área de DevOps/QA, contribuindo com soluções de qualidade para projetos.&nbsp;
+Estou animado para enfrentar grandes desafios usando tecnologias de DevOps/QA. <br><br> Minha experiência abrange o uso de ferramentas como Docker e Kubernetes para automação de infraestrutura, juntamente com o desenvolvimento de testes utilizando Selenium e JUnit. Estou entusiasmado em explorar novas ferramentas e métodos para aprimorar a qualidade e eficiência dos processos de entrega e teste de software. Como profissional júnior, estou comprometido em aprender e crescer na área de DevOps/QA, contribuindo com soluções de qualidade para projetos.&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Luiz Gabriel (Wornax)&theme=radical&mode=weekly" />
