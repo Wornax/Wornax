@@ -1,10 +1,8 @@
 
 
-### Sobre mim como DevOps/QA Júnior:
+### Sobre mim como DevOps/SRE:
 
-Olá! Estou entusiasmado em enfrentar grandes desafios usando tecnologias de DevOps/QA. Minha experiência inclui a utilização de ferramentas como Docker e Kubernetes para automação de infraestrutura, juntamente com o desenvolvimento de testes usando Selenium e JUnit. Estou ansioso para explorar novas ferramentas e métodos para aprimorar a qualidade e eficiência dos processos de entrega e teste de software.
-
-Como profissional júnior, estou comprometido em aprender e crescer na área de DevOps/QA, contribuindo com soluções de qualidade para projetos. Se você está buscando alguém motivado para integrar e fortalecer sua equipe, estou pronto para colaborar!
+Sou um SRE (Site Reliability Engineer) em uma empresa de tecnologia que oferece soluções de pagamento e gestão financeira para diversos segmentos. Nessa função, aplico os meus conhecimentos em DevOps, Cloud, Observability e Metrics para garantir a disponibilidade, performance e segurança dos serviços e aplicações da empresa.
 
 Vamos conectar e discutir como posso contribuir para o sucesso do seu projeto.
 
