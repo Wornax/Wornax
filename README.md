@@ -2,7 +2,7 @@
 
 ### Sobre mim como DevOps/SRE:
 
-Sou um SRE (Site Reliability Engineer) em uma empresa de tecnologia que oferece soluções de pagamento e gestão financeira para diversos segmentos. Nessa função, aplico os meus conhecimentos em DevOps, Cloud, Observability e Metrics para garantir a disponibilidade, performance e segurança dos serviços e aplicações da empresa.
+Sou um DevOps em uma empresa de tecnologia que oferece soluções de pagamento e gestão financeira para diversos segmentos. Nessa função, aplico os meus conhecimentos em DevOps, Cloud, Observability e Metrics para garantir a disponibilidade, performance e segurança dos serviços e aplicações da empresa.
 
 Vamos conectar e discutir como posso contribuir para o sucesso do seu projeto.
 
